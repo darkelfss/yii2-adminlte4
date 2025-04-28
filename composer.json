@@ -1,0 +1,27 @@
+{
+  "name": "darkelfss/yii2-adminlte4",
+  "description": "AdminLTE 4 integration for Yii2 with Bootstrap5 support",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii2",
+    "extension",
+    "adminlte4",
+    "bootstrap5"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "darkelfss",
+      "email": ""
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "~2.0.0",
+    "yiisoft/yii2-bootstrap5": "~2.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "yourname\\adminlte4\\": ""
+    }
+  }
+}
