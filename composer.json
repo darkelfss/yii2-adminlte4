@@ -12,18 +12,16 @@
   "authors": [
     {
       "name": "darkelfss",
-      "email": "6127736@qq.com"
+      "email": "darkelfss2025@163.com"
     }
   ],
   "require": {
     "yiisoft/yii2": "~2.0.0",
     "yiisoft/yii2-bootstrap5": "~2.0.0"
   },
-  "minimum-stability": "dev",
-  "prefer-stable": true,
   "autoload": {
     "psr-4": {
-      "yourname\\adminlte4\\": ""
+      "darkelfss\\adminlte4\\": ""
     }
   }
 }

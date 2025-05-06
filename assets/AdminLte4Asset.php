@@ -6,7 +6,7 @@ use yii\web\AssetBundle;
 
 class AdminLte4Asset extends AssetBundle
 {
-    public $sourcePath = '@vendor/darkelfss/adminlte4/dist';
+    public $sourcePath = '@vendor/darkelfss/yii2-adminlte4/dist';
     public $css = [
         'css/adminlte.min.css',
     ];
